@@ -1,5 +1,6 @@
-// toggle Size-Marks
-
+/*
+ toggle Size-Marks
+*/
 function toggleSizeMarks () {
     var docObj = activeDocument;
     for (i=0; i<docObj.layers.length; i++)
